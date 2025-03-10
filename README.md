@@ -1,3 +1,35 @@
+# NoteIT - Frontend
+
+## Overview
+**NoteIT** is a centralized platform designed to store saved links from multiple platforms, making content retrieval easy and efficient.
+
+## Tech Stack
+- **Frontend:** React + TypeScript
+- **State Management:** React Context API
+- **Styling:** Tailwind CSS
+- **Authentication:** JWT-based authentication
+- **Deployment:** Vercel / Netlify
+
+## Features
+✅ Save links from multiple platforms  
+✅ Categorize and tag saved content  
+✅ Search and filter functionality  
+✅ Secure authentication and user management  
+✅ Responsive UI  
+
+## Installation
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Steps to Run Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ysukeerthi/noteIT-frontend.git
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
