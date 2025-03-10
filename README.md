@@ -8,7 +8,6 @@
 - **State Management:** React Context API
 - **Styling:** Tailwind CSS
 - **Authentication:** JWT-based authentication
-- **Deployment:** Vercel / Netlify
 
 ## Features
 ✅ Save links from multiple platforms  
